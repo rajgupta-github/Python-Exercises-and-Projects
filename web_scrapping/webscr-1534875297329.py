@@ -1,6 +1,6 @@
 import urllib.request,re
 
-f = urllib.request.urlopen("https://www.bc.edu/a-z/directories/contact/quicknos.html")
+f = urllib.request.urlopen("https://fundrazr.com/find?category=Health")
 #("http://www.thehotelwindsor.com.au/")
 s = f.read()
 
